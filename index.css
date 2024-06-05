@@ -6,7 +6,7 @@ html,
 body {
     overflow-x: hidden;
     font-family: 'Archivo Black';
-    background-image: url('assets/flagfrogs.jpg');/* Pastel rainbow gradient */
+    background-image: url('assets/thc.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -44,7 +44,7 @@ body {
 }
 
 .hero {
-     /* Set your hero section background image */
+    background-image: url('');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
